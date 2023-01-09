@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetGanancias" targetNamespace="http://tempuri.org/DataSetGanancias.xsd" xmlns:mstns="http://tempuri.org/DataSetGanancias.xsd" xmlns="http://tempuri.org/DataSetGanancias.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetGanancias" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetGanancias" msprop:Generator_UserDSName="DataSetGanancias">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tnGananciasCuotas" msprop:Generator_TableClassName="tnGananciasCuotasDataTable" msprop:Generator_TableVarName="tabletnGananciasCuotas" msprop:Generator_RowChangedName="tnGananciasCuotasRowChanged" msprop:Generator_TablePropName="tnGananciasCuotas" msprop:Generator_RowDeletingName="tnGananciasCuotasRowDeleting" msprop:Generator_RowChangingName="tnGananciasCuotasRowChanging" msprop:Generator_RowEvHandlerName="tnGananciasCuotasRowChangeEventHandler" msprop:Generator_RowDeletedName="tnGananciasCuotasRowDeleted" msprop:Generator_RowClassName="tnGananciasCuotasRow" msprop:Generator_UserTableName="tnGananciasCuotas" msprop:Generator_RowEvArgName="tnGananciasCuotasRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cantAbonos" msprop:Generator_ColumnVarNameInTable="columncantAbonos" msprop:Generator_ColumnPropNameInRow="cantAbonos" msprop:Generator_ColumnPropNameInTable="cantAbonosColumn" msprop:Generator_UserColumnName="cantAbonos" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalmontosPagados" msprop:Generator_ColumnVarNameInTable="columnTotalmontosPagados" msprop:Generator_ColumnPropNameInRow="TotalmontosPagados" msprop:Generator_ColumnPropNameInTable="TotalmontosPagadosColumn" msprop:Generator_UserColumnName="TotalmontosPagados" type="xs:string" minOccurs="0" />
+              <xs:element name="gananciaInteres" msprop:Generator_ColumnVarNameInTable="columngananciaInteres" msprop:Generator_ColumnPropNameInRow="gananciaInteres" msprop:Generator_ColumnPropNameInTable="gananciaInteresColumn" msprop:Generator_UserColumnName="gananciaInteres" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalMorasPagadas" msprop:Generator_ColumnVarNameInTable="columnTotalMorasPagadas" msprop:Generator_ColumnPropNameInRow="TotalMorasPagadas" msprop:Generator_ColumnPropNameInTable="TotalMorasPagadasColumn" msprop:Generator_UserColumnName="TotalMorasPagadas" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

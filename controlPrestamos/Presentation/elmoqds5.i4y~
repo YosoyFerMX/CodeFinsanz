@@ -1,0 +1,1464 @@
+﻿
+namespace controlPrestamos
+{
+    partial class frmMain
+    {
+        /// <summary>
+        /// Variable del diseñador necesaria.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Limpiar los recursos que se estén usando.
+        /// </summary>
+        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Código generado por el Diseñador de Windows Forms
+
+        /// <summary>
+        /// Método necesario para admitir el Diseñador. No se puede modificar
+        /// el contenido de este método con el editor de código.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle25 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle26 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle28 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle29 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle30 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle31 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle32 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle33 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle34 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle35 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle36 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.pnlMain = new System.Windows.Forms.Panel();
+            this.btnInicio = new System.Windows.Forms.Button();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.button8 = new System.Windows.Forms.Button();
+            this.btnUsuarios = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.btnCobradores = new System.Windows.Forms.Button();
+            this.btnCobros = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.btnClient = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnCerrarApp = new System.Windows.Forms.Button();
+            this.gbClientes = new System.Windows.Forms.GroupBox();
+            this.txtGenCli = new System.Windows.Forms.ComboBox();
+            this.btnBuscarFotoCli = new System.Windows.Forms.Button();
+            this.btnBuscarCobrador = new System.Windows.Forms.Button();
+            this.txtasigCob = new System.Windows.Forms.TextBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.btnEliminarCliente = new System.Windows.Forms.Button();
+            this.btnEditarCliente = new System.Windows.Forms.Button();
+            this.btnGuardarCli = new System.Windows.Forms.Button();
+            this.label18 = new System.Windows.Forms.Label();
+            this.txtSearchName = new System.Windows.Forms.TextBox();
+            this.pcbFotoCliente = new System.Windows.Forms.PictureBox();
+            this.txtEdoCli = new System.Windows.Forms.TextBox();
+            this.label17 = new System.Windows.Forms.Label();
+            this.txtMpioCli = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.txtDirCli = new System.Windows.Forms.TextBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.txttelCli = new System.Windows.Forms.TextBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.txtSegApCli = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
+            this.txtPrimApCli = new System.Windows.Forms.TextBox();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.txtNomCli = new System.Windows.Forms.TextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.dgvClient = new System.Windows.Forms.DataGridView();
+            this.gbUsuarios = new System.Windows.Forms.GroupBox();
+            this.txtContraseUsu = new System.Windows.Forms.TextBox();
+            this.label23 = new System.Windows.Forms.Label();
+            this.cmbPrivilegiosUs = new System.Windows.Forms.ComboBox();
+            this.label31 = new System.Windows.Forms.Label();
+            this.btnEliminarUsuario = new System.Windows.Forms.Button();
+            this.btnEditarUsuario = new System.Windows.Forms.Button();
+            this.btnGuardarUsuario = new System.Windows.Forms.Button();
+            this.label32 = new System.Windows.Forms.Label();
+            this.txtBuscarUsuario = new System.Windows.Forms.TextBox();
+            this.label38 = new System.Windows.Forms.Label();
+            this.txtApellidosUsua = new System.Windows.Forms.TextBox();
+            this.label39 = new System.Windows.Forms.Label();
+            this.label40 = new System.Windows.Forms.Label();
+            this.txtNomUsua = new System.Windows.Forms.TextBox();
+            this.nombre = new System.Windows.Forms.Label();
+            this.dgvUsuarios = new System.Windows.Forms.DataGridView();
+            this.gbCobradores = new System.Windows.Forms.GroupBox();
+            this.btnBuscarFoto = new System.Windows.Forms.Button();
+            this.label20 = new System.Windows.Forms.Label();
+            this.btnEliminarCob = new System.Windows.Forms.Button();
+            this.btnEditarCobrador = new System.Windows.Forms.Button();
+            this.btnGuardar = new System.Windows.Forms.Button();
+            this.label21 = new System.Windows.Forms.Label();
+            this.txtBuscar = new System.Windows.Forms.TextBox();
+            this.pcbFoto = new System.Windows.Forms.PictureBox();
+            this.txtTelefono = new System.Windows.Forms.TextBox();
+            this.label24 = new System.Windows.Forms.Label();
+            this.txtZona = new System.Windows.Forms.TextBox();
+            this.label25 = new System.Windows.Forms.Label();
+            this.txtMunicipio = new System.Windows.Forms.TextBox();
+            this.label26 = new System.Windows.Forms.Label();
+            this.txtApellido2 = new System.Windows.Forms.TextBox();
+            this.label27 = new System.Windows.Forms.Label();
+            this.txtApellido1 = new System.Windows.Forms.TextBox();
+            this.label28 = new System.Windows.Forms.Label();
+            this.label29 = new System.Windows.Forms.Label();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.label30 = new System.Windows.Forms.Label();
+            this.dgvCobradores = new System.Windows.Forms.DataGridView();
+            this.pnlInicio = new System.Windows.Forms.Panel();
+            this.pnlContenedor = new System.Windows.Forms.Panel();
+            this.pnlMain.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.gbClientes.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbFotoCliente)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvClient)).BeginInit();
+            this.gbUsuarios.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).BeginInit();
+            this.gbCobradores.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbFoto)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvCobradores)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // pnlMain
+            // 
+            this.pnlMain.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
+            this.pnlMain.Controls.Add(this.pnlInicio);
+            this.pnlMain.Controls.Add(this.btnInicio);
+            this.pnlMain.Controls.Add(this.label8);
+            this.pnlMain.Controls.Add(this.label7);
+            this.pnlMain.Controls.Add(this.button8);
+            this.pnlMain.Controls.Add(this.btnUsuarios);
+            this.pnlMain.Controls.Add(this.button6);
+            this.pnlMain.Controls.Add(this.btnCobradores);
+            this.pnlMain.Controls.Add(this.btnCobros);
+            this.pnlMain.Controls.Add(this.button3);
+            this.pnlMain.Controls.Add(this.btnClient);
+            this.pnlMain.Controls.Add(this.label2);
+            this.pnlMain.Controls.Add(this.label1);
+            this.pnlMain.Controls.Add(this.pictureBox1);
+            this.pnlMain.Location = new System.Drawing.Point(0, 0);
+            this.pnlMain.Name = "pnlMain";
+            this.pnlMain.Size = new System.Drawing.Size(234, 713);
+            this.pnlMain.TabIndex = 0;
+            // 
+            // btnInicio
+            // 
+            this.btnInicio.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnInicio.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnInicio.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnInicio.ForeColor = System.Drawing.Color.White;
+            this.btnInicio.Location = new System.Drawing.Point(-3, 206);
+            this.btnInicio.Name = "btnInicio";
+            this.btnInicio.Size = new System.Drawing.Size(234, 35);
+            this.btnInicio.TabIndex = 24;
+            this.btnInicio.Text = "INICIO";
+            this.btnInicio.UseVisualStyleBackColor = true;
+            this.btnInicio.Click += new System.EventHandler(this.btnInicio_Click);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.ForeColor = System.Drawing.Color.White;
+            this.label8.Location = new System.Drawing.Point(13, 4);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(211, 13);
+            this.label8.TabIndex = 23;
+            this.label8.Text = "__________________________________";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.ForeColor = System.Drawing.Color.White;
+            this.label7.Location = new System.Drawing.Point(78, 158);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(56, 13);
+            this.label7.TabIndex = 22;
+            this.label7.Text = "USUARIO";
+            // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.Red;
+            this.button8.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button8.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.ForeColor = System.Drawing.Color.White;
+            this.button8.Location = new System.Drawing.Point(0, 660);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(234, 35);
+            this.button8.TabIndex = 21;
+            this.button8.Text = "SALIR";
+            this.button8.UseVisualStyleBackColor = false;
+            // 
+            // btnUsuarios
+            // 
+            this.btnUsuarios.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnUsuarios.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnUsuarios.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnUsuarios.ForeColor = System.Drawing.Color.White;
+            this.btnUsuarios.Location = new System.Drawing.Point(0, 588);
+            this.btnUsuarios.Name = "btnUsuarios";
+            this.btnUsuarios.Size = new System.Drawing.Size(234, 35);
+            this.btnUsuarios.TabIndex = 20;
+            this.btnUsuarios.Text = "USUARIOS";
+            this.btnUsuarios.UseVisualStyleBackColor = true;
+            this.btnUsuarios.Click += new System.EventHandler(this.btnUsuarios_Click);
+            // 
+            // button6
+            // 
+            this.button6.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button6.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.ForeColor = System.Drawing.Color.White;
+            this.button6.Location = new System.Drawing.Point(0, 520);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(234, 35);
+            this.button6.TabIndex = 19;
+            this.button6.Text = "REPORTES";
+            this.button6.UseVisualStyleBackColor = true;
+            // 
+            // btnCobradores
+            // 
+            this.btnCobradores.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCobradores.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnCobradores.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCobradores.ForeColor = System.Drawing.Color.White;
+            this.btnCobradores.Location = new System.Drawing.Point(0, 453);
+            this.btnCobradores.Name = "btnCobradores";
+            this.btnCobradores.Size = new System.Drawing.Size(234, 35);
+            this.btnCobradores.TabIndex = 18;
+            this.btnCobradores.Text = "COBRADORES";
+            this.btnCobradores.UseVisualStyleBackColor = true;
+            this.btnCobradores.Click += new System.EventHandler(this.btnCobradores_Click);
+            // 
+            // btnCobros
+            // 
+            this.btnCobros.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCobros.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnCobros.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCobros.ForeColor = System.Drawing.Color.White;
+            this.btnCobros.Location = new System.Drawing.Point(0, 392);
+            this.btnCobros.Name = "btnCobros";
+            this.btnCobros.Size = new System.Drawing.Size(234, 35);
+            this.btnCobros.TabIndex = 17;
+            this.btnCobros.Text = "COBROS";
+            this.btnCobros.UseVisualStyleBackColor = true;
+            this.btnCobros.Click += new System.EventHandler(this.btnCobros_Click);
+            // 
+            // button3
+            // 
+            this.button3.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button3.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.Location = new System.Drawing.Point(0, 326);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(234, 35);
+            this.button3.TabIndex = 16;
+            this.button3.Text = "PRESTAMOS";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // btnClient
+            // 
+            this.btnClient.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnClient.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnClient.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClient.ForeColor = System.Drawing.Color.White;
+            this.btnClient.Location = new System.Drawing.Point(0, 260);
+            this.btnClient.Name = "btnClient";
+            this.btnClient.Size = new System.Drawing.Size(234, 35);
+            this.btnClient.TabIndex = 15;
+            this.btnClient.Text = "CLIENTES";
+            this.btnClient.UseVisualStyleBackColor = true;
+            this.btnClient.Click += new System.EventHandler(this.btnClient_Click);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(12, 166);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(211, 13);
+            this.label2.TabIndex = 14;
+            this.label2.Text = "__________________________________";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(78, 135);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(73, 13);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "BIENVENIDO";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(51, 28);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(130, 104);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 12;
+            this.pictureBox1.TabStop = false;
+            // 
+            // btnCerrarApp
+            // 
+            this.btnCerrarApp.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
+            this.btnCerrarApp.Location = new System.Drawing.Point(1356, -1);
+            this.btnCerrarApp.Name = "btnCerrarApp";
+            this.btnCerrarApp.Size = new System.Drawing.Size(29, 23);
+            this.btnCerrarApp.TabIndex = 1;
+            this.btnCerrarApp.Text = "X";
+            this.btnCerrarApp.UseVisualStyleBackColor = true;
+            this.btnCerrarApp.Click += new System.EventHandler(this.btnCerrarApp_Click);
+            // 
+            // gbClientes
+            // 
+            this.gbClientes.Controls.Add(this.txtGenCli);
+            this.gbClientes.Controls.Add(this.btnBuscarFotoCli);
+            this.gbClientes.Controls.Add(this.btnBuscarCobrador);
+            this.gbClientes.Controls.Add(this.txtasigCob);
+            this.gbClientes.Controls.Add(this.label22);
+            this.gbClientes.Controls.Add(this.label19);
+            this.gbClientes.Controls.Add(this.btnEliminarCliente);
+            this.gbClientes.Controls.Add(this.btnEditarCliente);
+            this.gbClientes.Controls.Add(this.btnGuardarCli);
+            this.gbClientes.Controls.Add(this.label18);
+            this.gbClientes.Controls.Add(this.txtSearchName);
+            this.gbClientes.Controls.Add(this.pcbFotoCliente);
+            this.gbClientes.Controls.Add(this.txtEdoCli);
+            this.gbClientes.Controls.Add(this.label17);
+            this.gbClientes.Controls.Add(this.txtMpioCli);
+            this.gbClientes.Controls.Add(this.label16);
+            this.gbClientes.Controls.Add(this.txtDirCli);
+            this.gbClientes.Controls.Add(this.label15);
+            this.gbClientes.Controls.Add(this.txttelCli);
+            this.gbClientes.Controls.Add(this.label14);
+            this.gbClientes.Controls.Add(this.label13);
+            this.gbClientes.Controls.Add(this.txtSegApCli);
+            this.gbClientes.Controls.Add(this.label12);
+            this.gbClientes.Controls.Add(this.txtPrimApCli);
+            this.gbClientes.Controls.Add(this.label11);
+            this.gbClientes.Controls.Add(this.label10);
+            this.gbClientes.Controls.Add(this.txtNomCli);
+            this.gbClientes.Controls.Add(this.label9);
+            this.gbClientes.Controls.Add(this.dgvClient);
+            this.gbClientes.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gbClientes.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.gbClientes.Location = new System.Drawing.Point(829, 714);
+            this.gbClientes.Name = "gbClientes";
+            this.gbClientes.Size = new System.Drawing.Size(1151, 635);
+            this.gbClientes.TabIndex = 20;
+            this.gbClientes.TabStop = false;
+            this.gbClientes.Text = "CLIENTES";
+            // 
+            // txtGenCli
+            // 
+            this.txtGenCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtGenCli.FormattingEnabled = true;
+            this.txtGenCli.Items.AddRange(new object[] {
+            "Hombre",
+            "Mujer"});
+            this.txtGenCli.Location = new System.Drawing.Point(29, 328);
+            this.txtGenCli.Name = "txtGenCli";
+            this.txtGenCli.Size = new System.Drawing.Size(189, 27);
+            this.txtGenCli.TabIndex = 81;
+            // 
+            // btnBuscarFotoCli
+            // 
+            this.btnBuscarFotoCli.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnBuscarFotoCli.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBuscarFotoCli.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscarFotoCli.Location = new System.Drawing.Point(203, 128);
+            this.btnBuscarFotoCli.Name = "btnBuscarFotoCli";
+            this.btnBuscarFotoCli.Size = new System.Drawing.Size(38, 28);
+            this.btnBuscarFotoCli.TabIndex = 80;
+            this.btnBuscarFotoCli.Text = "...";
+            this.btnBuscarFotoCli.UseVisualStyleBackColor = true;
+            this.btnBuscarFotoCli.Click += new System.EventHandler(this.btnBuscarFotoCli_Click);
+            // 
+            // btnBuscarCobrador
+            // 
+            this.btnBuscarCobrador.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnBuscarCobrador.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBuscarCobrador.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscarCobrador.Location = new System.Drawing.Point(193, 568);
+            this.btnBuscarCobrador.Name = "btnBuscarCobrador";
+            this.btnBuscarCobrador.Size = new System.Drawing.Size(36, 28);
+            this.btnBuscarCobrador.TabIndex = 79;
+            this.btnBuscarCobrador.Text = "...";
+            this.btnBuscarCobrador.UseVisualStyleBackColor = true;
+            this.btnBuscarCobrador.Click += new System.EventHandler(this.btnBuscarCobrador_Click);
+            // 
+            // txtasigCob
+            // 
+            this.txtasigCob.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtasigCob.Location = new System.Drawing.Point(29, 570);
+            this.txtasigCob.Name = "txtasigCob";
+            this.txtasigCob.Size = new System.Drawing.Size(161, 27);
+            this.txtasigCob.TabIndex = 78;
+            this.txtasigCob.TextChanged += new System.EventHandler(this.txtasigCob_TextChanged);
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.BackColor = System.Drawing.Color.Transparent;
+            this.label22.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label22.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label22.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label22.Location = new System.Drawing.Point(26, 547);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(172, 23);
+            this.label22.TabIndex = 77;
+            this.label22.Text = "Asignar cobrador";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.BackColor = System.Drawing.Color.Transparent;
+            this.label19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label19.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label19.Location = new System.Drawing.Point(269, 71);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(155, 22);
+            this.label19.TabIndex = 75;
+            this.label19.Text = "Lista de Clientes";
+            // 
+            // btnEliminarCliente
+            // 
+            this.btnEliminarCliente.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEliminarCliente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminarCliente.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEliminarCliente.Location = new System.Drawing.Point(980, 550);
+            this.btnEliminarCliente.Name = "btnEliminarCliente";
+            this.btnEliminarCliente.Size = new System.Drawing.Size(100, 42);
+            this.btnEliminarCliente.TabIndex = 74;
+            this.btnEliminarCliente.Text = "Eliminar";
+            this.btnEliminarCliente.UseVisualStyleBackColor = true;
+            this.btnEliminarCliente.Click += new System.EventHandler(this.btnEliminarCliente_Click);
+            // 
+            // btnEditarCliente
+            // 
+            this.btnEditarCliente.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEditarCliente.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEditarCliente.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEditarCliente.Location = new System.Drawing.Point(642, 548);
+            this.btnEditarCliente.Name = "btnEditarCliente";
+            this.btnEditarCliente.Size = new System.Drawing.Size(100, 42);
+            this.btnEditarCliente.TabIndex = 73;
+            this.btnEditarCliente.Text = "EDITAR";
+            this.btnEditarCliente.UseVisualStyleBackColor = true;
+            this.btnEditarCliente.Click += new System.EventHandler(this.btnEditarCliente_Click);
+            // 
+            // btnGuardarCli
+            // 
+            this.btnGuardarCli.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnGuardarCli.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGuardarCli.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardarCli.Location = new System.Drawing.Point(279, 547);
+            this.btnGuardarCli.Name = "btnGuardarCli";
+            this.btnGuardarCli.Size = new System.Drawing.Size(109, 42);
+            this.btnGuardarCli.TabIndex = 72;
+            this.btnGuardarCli.Text = "GUARDAR";
+            this.btnGuardarCli.UseVisualStyleBackColor = true;
+            this.btnGuardarCli.Click += new System.EventHandler(this.btnGuardarCli_Click);
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.BackColor = System.Drawing.Color.Transparent;
+            this.label18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label18.Location = new System.Drawing.Point(918, 50);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(175, 24);
+            this.label18.TabIndex = 71;
+            this.label18.Text = "Buscar por Nombre";
+            // 
+            // txtSearchName
+            // 
+            this.txtSearchName.BackColor = System.Drawing.Color.White;
+            this.txtSearchName.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSearchName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
+            this.txtSearchName.Location = new System.Drawing.Point(888, 71);
+            this.txtSearchName.Name = "txtSearchName";
+            this.txtSearchName.Size = new System.Drawing.Size(235, 24);
+            this.txtSearchName.TabIndex = 70;
+            this.txtSearchName.TextChanged += new System.EventHandler(this.txtSearchName_TextChanged);
+            // 
+            // pcbFotoCliente
+            // 
+            this.pcbFotoCliente.Image = ((System.Drawing.Image)(resources.GetObject("pcbFotoCliente.Image")));
+            this.pcbFotoCliente.Location = new System.Drawing.Point(69, 52);
+            this.pcbFotoCliente.Name = "pcbFotoCliente";
+            this.pcbFotoCliente.Size = new System.Drawing.Size(130, 104);
+            this.pcbFotoCliente.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pcbFotoCliente.TabIndex = 24;
+            this.pcbFotoCliente.TabStop = false;
+            // 
+            // txtEdoCli
+            // 
+            this.txtEdoCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtEdoCli.Location = new System.Drawing.Point(29, 520);
+            this.txtEdoCli.Name = "txtEdoCli";
+            this.txtEdoCli.Size = new System.Drawing.Size(189, 27);
+            this.txtEdoCli.TabIndex = 47;
+            this.txtEdoCli.TextChanged += new System.EventHandler(this.txtEdoCli_TextChanged);
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.BackColor = System.Drawing.Color.Transparent;
+            this.label17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label17.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label17.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label17.Location = new System.Drawing.Point(25, 499);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(72, 23);
+            this.label17.TabIndex = 46;
+            this.label17.Text = "Estado";
+            // 
+            // txtMpioCli
+            // 
+            this.txtMpioCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMpioCli.Location = new System.Drawing.Point(29, 471);
+            this.txtMpioCli.Name = "txtMpioCli";
+            this.txtMpioCli.Size = new System.Drawing.Size(189, 27);
+            this.txtMpioCli.TabIndex = 45;
+            this.txtMpioCli.TextChanged += new System.EventHandler(this.txtMpioCli_TextChanged);
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.BackColor = System.Drawing.Color.Transparent;
+            this.label16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label16.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label16.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label16.Location = new System.Drawing.Point(25, 451);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(101, 23);
+            this.label16.TabIndex = 44;
+            this.label16.Text = "Municipio";
+            // 
+            // txtDirCli
+            // 
+            this.txtDirCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDirCli.Location = new System.Drawing.Point(29, 424);
+            this.txtDirCli.Name = "txtDirCli";
+            this.txtDirCli.Size = new System.Drawing.Size(189, 27);
+            this.txtDirCli.TabIndex = 43;
+            this.txtDirCli.TextChanged += new System.EventHandler(this.txtDirCli_TextChanged);
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.Color.Transparent;
+            this.label15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label15.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label15.Location = new System.Drawing.Point(25, 403);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(98, 23);
+            this.label15.TabIndex = 42;
+            this.label15.Text = "Dirección";
+            // 
+            // txttelCli
+            // 
+            this.txttelCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txttelCli.Location = new System.Drawing.Point(29, 376);
+            this.txttelCli.Name = "txttelCli";
+            this.txttelCli.Size = new System.Drawing.Size(189, 27);
+            this.txttelCli.TabIndex = 41;
+            this.txttelCli.TextChanged += new System.EventHandler(this.txttelCli_TextChanged);
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.BackColor = System.Drawing.Color.Transparent;
+            this.label14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label14.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label14.Location = new System.Drawing.Point(25, 355);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(87, 23);
+            this.label14.TabIndex = 40;
+            this.label14.Text = "Teléfono";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.BackColor = System.Drawing.Color.Transparent;
+            this.label13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label13.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label13.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label13.Location = new System.Drawing.Point(25, 308);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(79, 23);
+            this.label13.TabIndex = 38;
+            this.label13.Text = "Género";
+            // 
+            // txtSegApCli
+            // 
+            this.txtSegApCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSegApCli.Location = new System.Drawing.Point(29, 279);
+            this.txtSegApCli.Name = "txtSegApCli";
+            this.txtSegApCli.Size = new System.Drawing.Size(189, 27);
+            this.txtSegApCli.TabIndex = 37;
+            this.txtSegApCli.TextChanged += new System.EventHandler(this.txtSegApCli_TextChanged);
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.BackColor = System.Drawing.Color.Transparent;
+            this.label12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label12.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label12.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label12.Location = new System.Drawing.Point(25, 256);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(176, 23);
+            this.label12.TabIndex = 36;
+            this.label12.Text = "Segundo Apellido";
+            // 
+            // txtPrimApCli
+            // 
+            this.txtPrimApCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPrimApCli.Location = new System.Drawing.Point(29, 228);
+            this.txtPrimApCli.Name = "txtPrimApCli";
+            this.txtPrimApCli.Size = new System.Drawing.Size(189, 27);
+            this.txtPrimApCli.TabIndex = 35;
+            this.txtPrimApCli.TextChanged += new System.EventHandler(this.txtPrimApCli_TextChanged);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.BackColor = System.Drawing.Color.Transparent;
+            this.label11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label11.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label11.Location = new System.Drawing.Point(25, 208);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(152, 23);
+            this.label11.TabIndex = 34;
+            this.label11.Text = "Primer Apellido";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.BackColor = System.Drawing.Color.Transparent;
+            this.label10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label10.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label10.Location = new System.Drawing.Point(25, 24);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(165, 22);
+            this.label10.TabIndex = 33;
+            this.label10.Text = "Datos personales";
+            // 
+            // txtNomCli
+            // 
+            this.txtNomCli.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNomCli.Location = new System.Drawing.Point(29, 181);
+            this.txtNomCli.Name = "txtNomCli";
+            this.txtNomCli.Size = new System.Drawing.Size(189, 27);
+            this.txtNomCli.TabIndex = 32;
+            this.txtNomCli.TextChanged += new System.EventHandler(this.txtNomCli_TextChanged);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.BackColor = System.Drawing.Color.Transparent;
+            this.label9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label9.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label9.Location = new System.Drawing.Point(25, 161);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(90, 23);
+            this.label9.TabIndex = 31;
+            this.label9.Text = "Nombre:";
+            // 
+            // dgvClient
+            // 
+            this.dgvClient.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllHeaders;
+            this.dgvClient.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            this.dgvClient.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvClient.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
+            this.dgvClient.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle25.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle25.BackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle25.Font = new System.Drawing.Font("Microsoft Tai Le", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle25.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle25.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle25.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle25.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvClient.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle25;
+            this.dgvClient.ColumnHeadersHeight = 45;
+            this.dgvClient.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            dataGridViewCellStyle26.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle26.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle26.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle26.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            dataGridViewCellStyle26.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle26.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle26.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvClient.DefaultCellStyle = dataGridViewCellStyle26;
+            this.dgvClient.EnableHeadersVisualStyles = false;
+            this.dgvClient.GridColor = System.Drawing.Color.SteelBlue;
+            this.dgvClient.Location = new System.Drawing.Point(273, 96);
+            this.dgvClient.Name = "dgvClient";
+            this.dgvClient.ReadOnly = true;
+            this.dgvClient.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle27.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            dataGridViewCellStyle27.Font = new System.Drawing.Font("Microsoft Tai Le", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle27.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle27.SelectionBackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle27.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle27.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvClient.RowHeadersDefaultCellStyle = dataGridViewCellStyle27;
+            dataGridViewCellStyle28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            dataGridViewCellStyle28.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle28.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle28.SelectionBackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle28.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvClient.RowsDefaultCellStyle = dataGridViewCellStyle28;
+            this.dgvClient.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvClient.Size = new System.Drawing.Size(864, 431);
+            this.dgvClient.TabIndex = 48;
+            // 
+            // gbUsuarios
+            // 
+            this.gbUsuarios.Controls.Add(this.txtContraseUsu);
+            this.gbUsuarios.Controls.Add(this.label23);
+            this.gbUsuarios.Controls.Add(this.cmbPrivilegiosUs);
+            this.gbUsuarios.Controls.Add(this.label31);
+            this.gbUsuarios.Controls.Add(this.btnEliminarUsuario);
+            this.gbUsuarios.Controls.Add(this.btnEditarUsuario);
+            this.gbUsuarios.Controls.Add(this.btnGuardarUsuario);
+            this.gbUsuarios.Controls.Add(this.label32);
+            this.gbUsuarios.Controls.Add(this.txtBuscarUsuario);
+            this.gbUsuarios.Controls.Add(this.label38);
+            this.gbUsuarios.Controls.Add(this.txtApellidosUsua);
+            this.gbUsuarios.Controls.Add(this.label39);
+            this.gbUsuarios.Controls.Add(this.label40);
+            this.gbUsuarios.Controls.Add(this.txtNomUsua);
+            this.gbUsuarios.Controls.Add(this.nombre);
+            this.gbUsuarios.Controls.Add(this.dgvUsuarios);
+            this.gbUsuarios.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gbUsuarios.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.gbUsuarios.Location = new System.Drawing.Point(1153, 725);
+            this.gbUsuarios.Name = "gbUsuarios";
+            this.gbUsuarios.Size = new System.Drawing.Size(1108, 603);
+            this.gbUsuarios.TabIndex = 81;
+            this.gbUsuarios.TabStop = false;
+            this.gbUsuarios.Text = "USUARIOS";
+            this.gbUsuarios.Visible = false;
+            // 
+            // txtContraseUsu
+            // 
+            this.txtContraseUsu.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtContraseUsu.Location = new System.Drawing.Point(50, 255);
+            this.txtContraseUsu.Name = "txtContraseUsu";
+            this.txtContraseUsu.Size = new System.Drawing.Size(189, 23);
+            this.txtContraseUsu.TabIndex = 83;
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.BackColor = System.Drawing.Color.Transparent;
+            this.label23.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label23.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label23.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label23.Location = new System.Drawing.Point(46, 234);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(124, 22);
+            this.label23.TabIndex = 82;
+            this.label23.Text = "Contraseña:";
+            // 
+            // cmbPrivilegiosUs
+            // 
+            this.cmbPrivilegiosUs.FormattingEnabled = true;
+            this.cmbPrivilegiosUs.Items.AddRange(new object[] {
+            "Administrador",
+            "Empleado"});
+            this.cmbPrivilegiosUs.Location = new System.Drawing.Point(50, 321);
+            this.cmbPrivilegiosUs.Name = "cmbPrivilegiosUs";
+            this.cmbPrivilegiosUs.Size = new System.Drawing.Size(193, 35);
+            this.cmbPrivilegiosUs.TabIndex = 81;
+            // 
+            // label31
+            // 
+            this.label31.AutoSize = true;
+            this.label31.BackColor = System.Drawing.Color.Transparent;
+            this.label31.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label31.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label31.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label31.Location = new System.Drawing.Point(353, 58);
+            this.label31.Name = "label31";
+            this.label31.Size = new System.Drawing.Size(156, 22);
+            this.label31.TabIndex = 75;
+            this.label31.Text = "Lista de usuarios";
+            // 
+            // btnEliminarUsuario
+            // 
+            this.btnEliminarUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEliminarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminarUsuario.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEliminarUsuario.Location = new System.Drawing.Point(945, 550);
+            this.btnEliminarUsuario.Name = "btnEliminarUsuario";
+            this.btnEliminarUsuario.Size = new System.Drawing.Size(100, 42);
+            this.btnEliminarUsuario.TabIndex = 74;
+            this.btnEliminarUsuario.Text = "Eliminar";
+            this.btnEliminarUsuario.UseVisualStyleBackColor = true;
+            this.btnEliminarUsuario.Click += new System.EventHandler(this.btnEliminarUsuario_Click);
+            // 
+            // btnEditarUsuario
+            // 
+            this.btnEditarUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEditarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEditarUsuario.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEditarUsuario.Location = new System.Drawing.Point(607, 548);
+            this.btnEditarUsuario.Name = "btnEditarUsuario";
+            this.btnEditarUsuario.Size = new System.Drawing.Size(100, 42);
+            this.btnEditarUsuario.TabIndex = 73;
+            this.btnEditarUsuario.Text = "Editar";
+            this.btnEditarUsuario.UseVisualStyleBackColor = true;
+            this.btnEditarUsuario.Click += new System.EventHandler(this.btnEditarUsuario_Click);
+            // 
+            // btnGuardarUsuario
+            // 
+            this.btnGuardarUsuario.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnGuardarUsuario.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGuardarUsuario.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardarUsuario.Location = new System.Drawing.Point(86, 479);
+            this.btnGuardarUsuario.Name = "btnGuardarUsuario";
+            this.btnGuardarUsuario.Size = new System.Drawing.Size(109, 42);
+            this.btnGuardarUsuario.TabIndex = 72;
+            this.btnGuardarUsuario.Text = "GUARDAR";
+            this.btnGuardarUsuario.UseVisualStyleBackColor = true;
+            this.btnGuardarUsuario.Click += new System.EventHandler(this.btnGuardarUsuario_Click);
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.BackColor = System.Drawing.Color.Transparent;
+            this.label32.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label32.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label32.Location = new System.Drawing.Point(883, 50);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(175, 24);
+            this.label32.TabIndex = 71;
+            this.label32.Text = "Buscar por Nombre";
+            // 
+            // txtBuscarUsuario
+            // 
+            this.txtBuscarUsuario.BackColor = System.Drawing.Color.White;
+            this.txtBuscarUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuscarUsuario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
+            this.txtBuscarUsuario.Location = new System.Drawing.Point(853, 71);
+            this.txtBuscarUsuario.Name = "txtBuscarUsuario";
+            this.txtBuscarUsuario.Size = new System.Drawing.Size(235, 24);
+            this.txtBuscarUsuario.TabIndex = 70;
+            // 
+            // label38
+            // 
+            this.label38.AutoSize = true;
+            this.label38.BackColor = System.Drawing.Color.Transparent;
+            this.label38.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label38.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label38.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label38.Location = new System.Drawing.Point(50, 296);
+            this.label38.Name = "label38";
+            this.label38.Size = new System.Drawing.Size(96, 22);
+            this.label38.TabIndex = 36;
+            this.label38.Text = "Privilegios";
+            // 
+            // txtApellidosUsua
+            // 
+            this.txtApellidosUsua.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtApellidosUsua.Location = new System.Drawing.Point(50, 202);
+            this.txtApellidosUsua.Name = "txtApellidosUsua";
+            this.txtApellidosUsua.Size = new System.Drawing.Size(189, 23);
+            this.txtApellidosUsua.TabIndex = 35;
+            // 
+            // label39
+            // 
+            this.label39.AutoSize = true;
+            this.label39.BackColor = System.Drawing.Color.Transparent;
+            this.label39.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label39.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label39.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label39.Location = new System.Drawing.Point(46, 181);
+            this.label39.Name = "label39";
+            this.label39.Size = new System.Drawing.Size(96, 22);
+            this.label39.TabIndex = 34;
+            this.label39.Text = "Apellidos:";
+            // 
+            // label40
+            // 
+            this.label40.AutoSize = true;
+            this.label40.BackColor = System.Drawing.Color.Transparent;
+            this.label40.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label40.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label40.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label40.Location = new System.Drawing.Point(46, 56);
+            this.label40.Name = "label40";
+            this.label40.Size = new System.Drawing.Size(165, 22);
+            this.label40.TabIndex = 33;
+            this.label40.Text = "Datos personales";
+            // 
+            // txtNomUsua
+            // 
+            this.txtNomUsua.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNomUsua.Location = new System.Drawing.Point(50, 149);
+            this.txtNomUsua.Name = "txtNomUsua";
+            this.txtNomUsua.Size = new System.Drawing.Size(189, 23);
+            this.txtNomUsua.TabIndex = 32;
+            // 
+            // nombre
+            // 
+            this.nombre.AutoSize = true;
+            this.nombre.BackColor = System.Drawing.Color.Transparent;
+            this.nombre.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.nombre.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nombre.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.nombre.Location = new System.Drawing.Point(46, 129);
+            this.nombre.Name = "nombre";
+            this.nombre.Size = new System.Drawing.Size(89, 22);
+            this.nombre.TabIndex = 31;
+            this.nombre.Text = "Nombre:";
+            // 
+            // dgvUsuarios
+            // 
+            this.dgvUsuarios.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvUsuarios.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            this.dgvUsuarios.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvUsuarios.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
+            this.dgvUsuarios.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle29.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle29.BackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle29.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle29.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle29.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle29.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle29.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvUsuarios.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle29;
+            this.dgvUsuarios.ColumnHeadersHeight = 45;
+            this.dgvUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            dataGridViewCellStyle30.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle30.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle30.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle30.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            dataGridViewCellStyle30.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle30.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle30.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvUsuarios.DefaultCellStyle = dataGridViewCellStyle30;
+            this.dgvUsuarios.EnableHeadersVisualStyles = false;
+            this.dgvUsuarios.GridColor = System.Drawing.Color.SteelBlue;
+            this.dgvUsuarios.Location = new System.Drawing.Point(357, 96);
+            this.dgvUsuarios.Name = "dgvUsuarios";
+            this.dgvUsuarios.ReadOnly = true;
+            this.dgvUsuarios.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle31.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            dataGridViewCellStyle31.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle31.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle31.SelectionBackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle31.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle31.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvUsuarios.RowHeadersDefaultCellStyle = dataGridViewCellStyle31;
+            dataGridViewCellStyle32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            dataGridViewCellStyle32.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle32.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle32.SelectionBackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle32.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvUsuarios.RowsDefaultCellStyle = dataGridViewCellStyle32;
+            this.dgvUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvUsuarios.Size = new System.Drawing.Size(745, 431);
+            this.dgvUsuarios.TabIndex = 48;
+            // 
+            // gbCobradores
+            // 
+            this.gbCobradores.Controls.Add(this.btnBuscarFoto);
+            this.gbCobradores.Controls.Add(this.label20);
+            this.gbCobradores.Controls.Add(this.btnEliminarCob);
+            this.gbCobradores.Controls.Add(this.btnEditarCobrador);
+            this.gbCobradores.Controls.Add(this.btnGuardar);
+            this.gbCobradores.Controls.Add(this.label21);
+            this.gbCobradores.Controls.Add(this.txtBuscar);
+            this.gbCobradores.Controls.Add(this.pcbFoto);
+            this.gbCobradores.Controls.Add(this.txtTelefono);
+            this.gbCobradores.Controls.Add(this.label24);
+            this.gbCobradores.Controls.Add(this.txtZona);
+            this.gbCobradores.Controls.Add(this.label25);
+            this.gbCobradores.Controls.Add(this.txtMunicipio);
+            this.gbCobradores.Controls.Add(this.label26);
+            this.gbCobradores.Controls.Add(this.txtApellido2);
+            this.gbCobradores.Controls.Add(this.label27);
+            this.gbCobradores.Controls.Add(this.txtApellido1);
+            this.gbCobradores.Controls.Add(this.label28);
+            this.gbCobradores.Controls.Add(this.label29);
+            this.gbCobradores.Controls.Add(this.txtNombre);
+            this.gbCobradores.Controls.Add(this.label30);
+            this.gbCobradores.Controls.Add(this.dgvCobradores);
+            this.gbCobradores.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gbCobradores.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.gbCobradores.Location = new System.Drawing.Point(24, 725);
+            this.gbCobradores.Name = "gbCobradores";
+            this.gbCobradores.Size = new System.Drawing.Size(1108, 603);
+            this.gbCobradores.TabIndex = 76;
+            this.gbCobradores.TabStop = false;
+            this.gbCobradores.Text = "COBRADORES";
+            // 
+            // btnBuscarFoto
+            // 
+            this.btnBuscarFoto.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnBuscarFoto.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBuscarFoto.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBuscarFoto.Location = new System.Drawing.Point(26, 189);
+            this.btnBuscarFoto.Name = "btnBuscarFoto";
+            this.btnBuscarFoto.Size = new System.Drawing.Size(164, 31);
+            this.btnBuscarFoto.TabIndex = 76;
+            this.btnBuscarFoto.Text = "Buscar Foto";
+            this.btnBuscarFoto.UseVisualStyleBackColor = true;
+            this.btnBuscarFoto.Click += new System.EventHandler(this.btnBuscarFoto_Click);
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.BackColor = System.Drawing.Color.Transparent;
+            this.label20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label20.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label20.Location = new System.Drawing.Point(234, 55);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(193, 22);
+            this.label20.TabIndex = 75;
+            this.label20.Text = "Lista de Cobradores";
+            // 
+            // btnEliminarCob
+            // 
+            this.btnEliminarCob.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEliminarCob.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminarCob.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEliminarCob.Location = new System.Drawing.Point(945, 547);
+            this.btnEliminarCob.Name = "btnEliminarCob";
+            this.btnEliminarCob.Size = new System.Drawing.Size(100, 42);
+            this.btnEliminarCob.TabIndex = 74;
+            this.btnEliminarCob.Text = "Eliminar";
+            this.btnEliminarCob.UseVisualStyleBackColor = true;
+            this.btnEliminarCob.Click += new System.EventHandler(this.btnEliminarCob_Click);
+            // 
+            // btnEditarCobrador
+            // 
+            this.btnEditarCobrador.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnEditarCobrador.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEditarCobrador.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEditarCobrador.Location = new System.Drawing.Point(607, 545);
+            this.btnEditarCobrador.Name = "btnEditarCobrador";
+            this.btnEditarCobrador.Size = new System.Drawing.Size(100, 42);
+            this.btnEditarCobrador.TabIndex = 73;
+            this.btnEditarCobrador.Text = "Editar";
+            this.btnEditarCobrador.UseVisualStyleBackColor = true;
+            this.btnEditarCobrador.Click += new System.EventHandler(this.btnEditarCobrador_Click);
+            // 
+            // btnGuardar
+            // 
+            this.btnGuardar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnGuardar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnGuardar.Font = new System.Drawing.Font("Microsoft Tai Le", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGuardar.Location = new System.Drawing.Point(22, 544);
+            this.btnGuardar.Name = "btnGuardar";
+            this.btnGuardar.Size = new System.Drawing.Size(189, 42);
+            this.btnGuardar.TabIndex = 72;
+            this.btnGuardar.Text = "Guardar";
+            this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.BackColor = System.Drawing.Color.Transparent;
+            this.label21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label21.Location = new System.Drawing.Point(883, 50);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(175, 24);
+            this.label21.TabIndex = 71;
+            this.label21.Text = "Buscar por Nombre";
+            // 
+            // txtBuscar
+            // 
+            this.txtBuscar.BackColor = System.Drawing.Color.White;
+            this.txtBuscar.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuscar.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(57)))), ((int)(((byte)(80)))));
+            this.txtBuscar.Location = new System.Drawing.Point(853, 71);
+            this.txtBuscar.Name = "txtBuscar";
+            this.txtBuscar.Size = new System.Drawing.Size(235, 24);
+            this.txtBuscar.TabIndex = 70;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
+            // 
+            // pcbFoto
+            // 
+            this.pcbFoto.Image = ((System.Drawing.Image)(resources.GetObject("pcbFoto.Image")));
+            this.pcbFoto.Location = new System.Drawing.Point(50, 81);
+            this.pcbFoto.Name = "pcbFoto";
+            this.pcbFoto.Size = new System.Drawing.Size(130, 104);
+            this.pcbFoto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pcbFoto.TabIndex = 24;
+            this.pcbFoto.TabStop = false;
+            // 
+            // txtTelefono
+            // 
+            this.txtTelefono.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtTelefono.Location = new System.Drawing.Point(22, 499);
+            this.txtTelefono.Name = "txtTelefono";
+            this.txtTelefono.Size = new System.Drawing.Size(189, 23);
+            this.txtTelefono.TabIndex = 43;
+            // 
+            // label24
+            // 
+            this.label24.AutoSize = true;
+            this.label24.BackColor = System.Drawing.Color.Transparent;
+            this.label24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label24.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label24.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label24.Location = new System.Drawing.Point(18, 474);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(87, 22);
+            this.label24.TabIndex = 42;
+            this.label24.Text = "Teléfono";
+            // 
+            // txtZona
+            // 
+            this.txtZona.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtZona.Location = new System.Drawing.Point(22, 448);
+            this.txtZona.Name = "txtZona";
+            this.txtZona.Size = new System.Drawing.Size(189, 23);
+            this.txtZona.TabIndex = 41;
+            // 
+            // label25
+            // 
+            this.label25.AutoSize = true;
+            this.label25.BackColor = System.Drawing.Color.Transparent;
+            this.label25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label25.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label25.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label25.Location = new System.Drawing.Point(18, 426);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(56, 22);
+            this.label25.TabIndex = 40;
+            this.label25.Text = "Zona";
+            // 
+            // txtMunicipio
+            // 
+            this.txtMunicipio.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMunicipio.Location = new System.Drawing.Point(22, 399);
+            this.txtMunicipio.Name = "txtMunicipio";
+            this.txtMunicipio.Size = new System.Drawing.Size(189, 23);
+            this.txtMunicipio.TabIndex = 39;
+            // 
+            // label26
+            // 
+            this.label26.AutoSize = true;
+            this.label26.BackColor = System.Drawing.Color.Transparent;
+            this.label26.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label26.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label26.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label26.Location = new System.Drawing.Point(18, 377);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(187, 22);
+            this.label26.TabIndex = 38;
+            this.label26.Text = "Municipio de cobro";
+            // 
+            // txtApellido2
+            // 
+            this.txtApellido2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtApellido2.Location = new System.Drawing.Point(22, 351);
+            this.txtApellido2.Name = "txtApellido2";
+            this.txtApellido2.Size = new System.Drawing.Size(189, 23);
+            this.txtApellido2.TabIndex = 37;
+            // 
+            // label27
+            // 
+            this.label27.AutoSize = true;
+            this.label27.BackColor = System.Drawing.Color.Transparent;
+            this.label27.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label27.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label27.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label27.Location = new System.Drawing.Point(18, 326);
+            this.label27.Name = "label27";
+            this.label27.Size = new System.Drawing.Size(172, 22);
+            this.label27.TabIndex = 36;
+            this.label27.Text = "Segundo Apellido";
+            // 
+            // txtApellido1
+            // 
+            this.txtApellido1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtApellido1.Location = new System.Drawing.Point(22, 300);
+            this.txtApellido1.Name = "txtApellido1";
+            this.txtApellido1.Size = new System.Drawing.Size(189, 23);
+            this.txtApellido1.TabIndex = 35;
+            // 
+            // label28
+            // 
+            this.label28.AutoSize = true;
+            this.label28.BackColor = System.Drawing.Color.Transparent;
+            this.label28.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label28.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label28.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label28.Location = new System.Drawing.Point(18, 279);
+            this.label28.Name = "label28";
+            this.label28.Size = new System.Drawing.Size(144, 22);
+            this.label28.TabIndex = 34;
+            this.label28.Text = "Primer Apellido";
+            // 
+            // label29
+            // 
+            this.label29.AutoSize = true;
+            this.label29.BackColor = System.Drawing.Color.Transparent;
+            this.label29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label29.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label29.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label29.Location = new System.Drawing.Point(6, 53);
+            this.label29.Name = "label29";
+            this.label29.Size = new System.Drawing.Size(165, 22);
+            this.label29.TabIndex = 33;
+            this.label29.Text = "Datos personales";
+            // 
+            // txtNombre
+            // 
+            this.txtNombre.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNombre.Location = new System.Drawing.Point(22, 253);
+            this.txtNombre.Name = "txtNombre";
+            this.txtNombre.Size = new System.Drawing.Size(189, 23);
+            this.txtNombre.TabIndex = 32;
+            // 
+            // label30
+            // 
+            this.label30.AutoSize = true;
+            this.label30.BackColor = System.Drawing.Color.Transparent;
+            this.label30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.label30.Font = new System.Drawing.Font("Century Gothic", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label30.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label30.Location = new System.Drawing.Point(18, 233);
+            this.label30.Name = "label30";
+            this.label30.Size = new System.Drawing.Size(89, 22);
+            this.label30.TabIndex = 31;
+            this.label30.Text = "Nombre:";
+            // 
+            // dgvCobradores
+            // 
+            this.dgvCobradores.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.dgvCobradores.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            this.dgvCobradores.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.dgvCobradores.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleVertical;
+            this.dgvCobradores.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
+            dataGridViewCellStyle33.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle33.BackColor = System.Drawing.Color.RoyalBlue;
+            dataGridViewCellStyle33.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle33.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle33.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle33.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle33.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvCobradores.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle33;
+            this.dgvCobradores.ColumnHeadersHeight = 45;
+            this.dgvCobradores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            dataGridViewCellStyle34.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle34.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle34.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle34.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            dataGridViewCellStyle34.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle34.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle34.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvCobradores.DefaultCellStyle = dataGridViewCellStyle34;
+            this.dgvCobradores.EnableHeadersVisualStyles = false;
+            this.dgvCobradores.GridColor = System.Drawing.Color.SteelBlue;
+            this.dgvCobradores.Location = new System.Drawing.Point(228, 96);
+            this.dgvCobradores.Name = "dgvCobradores";
+            this.dgvCobradores.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
+            dataGridViewCellStyle35.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            dataGridViewCellStyle35.Font = new System.Drawing.Font("Microsoft Tai Le", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle35.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle35.SelectionBackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle35.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle35.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvCobradores.RowHeadersDefaultCellStyle = dataGridViewCellStyle35;
+            dataGridViewCellStyle36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(66)))), ((int)(((byte)(91)))));
+            dataGridViewCellStyle36.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle36.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle36.SelectionBackColor = System.Drawing.Color.SteelBlue;
+            dataGridViewCellStyle36.SelectionForeColor = System.Drawing.Color.White;
+            this.dgvCobradores.RowsDefaultCellStyle = dataGridViewCellStyle36;
+            this.dgvCobradores.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvCobradores.Size = new System.Drawing.Size(874, 442);
+            this.dgvCobradores.TabIndex = 48;
+            // 
+            // pnlInicio
+            // 
+            this.pnlInicio.Location = new System.Drawing.Point(240, 92);
+            this.pnlInicio.Name = "pnlInicio";
+            this.pnlInicio.Size = new System.Drawing.Size(1124, 603);
+            this.pnlInicio.TabIndex = 82;
+            // 
+            // pnlContenedor
+            // 
+            this.pnlContenedor.Location = new System.Drawing.Point(234, 0);
+            this.pnlContenedor.Name = "pnlContenedor";
+            this.pnlContenedor.Size = new System.Drawing.Size(1151, 713);
+            this.pnlContenedor.TabIndex = 83;
+            // 
+            // frmMain
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1384, 768);
+            this.Controls.Add(this.pnlContenedor);
+            this.Controls.Add(this.gbClientes);
+            this.Controls.Add(this.gbUsuarios);
+            this.Controls.Add(this.gbCobradores);
+            this.Controls.Add(this.btnCerrarApp);
+            this.Controls.Add(this.pnlMain);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.IsMdiContainer = true;
+            this.Name = "frmMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "SISTEMA DE PRESTAMOS";
+            this.Load += new System.EventHandler(this.frmMain_Load);
+            this.pnlMain.ResumeLayout(false);
+            this.pnlMain.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.gbClientes.ResumeLayout(false);
+            this.gbClientes.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbFotoCliente)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvClient)).EndInit();
+            this.gbUsuarios.ResumeLayout(false);
+            this.gbUsuarios.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).EndInit();
+            this.gbCobradores.ResumeLayout(false);
+            this.gbCobradores.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbFoto)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvCobradores)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel pnlMain;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button btnUsuarios;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btnCobradores;
+        private System.Windows.Forms.Button btnCobros;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnClient;
+        private System.Windows.Forms.Button btnCerrarApp;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.GroupBox gbClientes;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Button btnEliminarCliente;
+        private System.Windows.Forms.Button btnEditarCliente;
+        private System.Windows.Forms.Button btnGuardarCli;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.TextBox txtSearchName;
+        private System.Windows.Forms.DataGridView dgvClient;
+        private System.Windows.Forms.PictureBox pcbFotoCliente;
+        private System.Windows.Forms.TextBox txtEdoCli;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.TextBox txtMpioCli;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.TextBox txtDirCli;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.TextBox txttelCli;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.TextBox txtSegApCli;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.TextBox txtPrimApCli;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.TextBox txtNomCli;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Button btnInicio;
+        private System.Windows.Forms.GroupBox gbCobradores;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Button btnEliminarCob;
+        private System.Windows.Forms.Button btnEditarCobrador;
+        private System.Windows.Forms.Button btnGuardar;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.TextBox txtBuscar;
+        private System.Windows.Forms.PictureBox pcbFoto;
+        private System.Windows.Forms.TextBox txtTelefono;
+        private System.Windows.Forms.Label label24;
+        private System.Windows.Forms.TextBox txtZona;
+        private System.Windows.Forms.Label label25;
+        private System.Windows.Forms.TextBox txtMunicipio;
+        private System.Windows.Forms.Label label26;
+        private System.Windows.Forms.TextBox txtApellido2;
+        private System.Windows.Forms.Label label27;
+        private System.Windows.Forms.TextBox txtApellido1;
+        private System.Windows.Forms.Label label28;
+        private System.Windows.Forms.Label label29;
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.Label label30;
+        private System.Windows.Forms.DataGridView dgvCobradores;
+        private System.Windows.Forms.Button btnBuscarFoto;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Button btnBuscarCobrador;
+        private System.Windows.Forms.TextBox txtasigCob;
+        private System.Windows.Forms.Button btnBuscarFotoCli;
+        private System.Windows.Forms.GroupBox gbUsuarios;
+        private System.Windows.Forms.Label label31;
+        private System.Windows.Forms.Button btnEliminarUsuario;
+        private System.Windows.Forms.Button btnEditarUsuario;
+        private System.Windows.Forms.Button btnGuardarUsuario;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.TextBox txtBuscarUsuario;
+        private System.Windows.Forms.Label label38;
+        private System.Windows.Forms.TextBox txtApellidosUsua;
+        private System.Windows.Forms.Label label39;
+        private System.Windows.Forms.Label label40;
+        private System.Windows.Forms.TextBox txtNomUsua;
+        private System.Windows.Forms.Label nombre;
+        private System.Windows.Forms.DataGridView dgvUsuarios;
+        private System.Windows.Forms.TextBox txtContraseUsu;
+        private System.Windows.Forms.Label label23;
+        private System.Windows.Forms.ComboBox cmbPrivilegiosUs;
+        private System.Windows.Forms.ComboBox txtGenCli;
+        private System.Windows.Forms.Panel pnlInicio;
+        private System.Windows.Forms.Panel pnlContenedor;
+    }
+}
+

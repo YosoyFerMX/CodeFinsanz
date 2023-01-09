@@ -1,0 +1,116 @@
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\bin\Debug\controlPrestamos.exe.config
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\bin\Debug\controlPrestamos.exe
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\bin\Debug\controlPrestamos.pdb
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.AssemblyReference.cache
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.frmMain.resources
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Properties.Resources.resources
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.GenerateResource.cache
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.exe
+C:\Users\SoyFer\source\repos\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.pdb
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.AssemblyReference.cache
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.frmMain.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Properties.Resources.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.GenerateResource.cache
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmSelecCobradores.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmClientes.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmCobradores.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmUsuarios.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmPrestamos.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmSelecCliente.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmCobros.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmSelecPrestamo.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\EnvDTE.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\stdole.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmMainReportes.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmReporteClientes.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.csproj.CopyComplete
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\RdlCompile.cache
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\RdlCompile.compiled
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmReportePrestamoDetalles.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmReportCobradores.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmInformeCobrosCobra.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmPrestamosGanancias.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmCuotasVencidas.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmGanancias.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmInicio.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmLoguin.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmMoras.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmVerMoratoria.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmReporteMoratorio.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmGananciaMoras.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmAjustes.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Finsanz S. A. de C. V.exe.config
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Finsanz S. A. de C. V.exe.manifest
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Finsanz S. A. de C. V.application
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Finsanz S. A. de C. V.exe
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\Finsanz S. A. de C. V.pdb
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\Finsanz S. A. de C. V.exe.manifest
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\Finsanz S. A. de C. V.application
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\Finsanz S. A. de C. V.exe
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\Finsanz S. A. de C. V.pdb
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\obj\Debug\controlPrestamos.Presentation.frmBienvenida.resources
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\CircularProgressBar.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\WinFormAnimation.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\CircularProgressBar.xml
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\iTextSharp.LGPLv2.Core.dll
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\SoyFer\Documents\PROYECTIOS PERSONALES\PROYECTO COBROS\controlPrestamos\controlPrestamos\bin\Debug\iTextSharp.LGPLv2.Core.xml

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetInfMontosCob" targetNamespace="http://tempuri.org/DataSetInfMontosCob.xsd" xmlns:mstns="http://tempuri.org/DataSetInfMontosCob.xsd" xmlns="http://tempuri.org/DataSetInfMontosCob.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetInfMontosCob" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetInfMontosCob" msprop:Generator_UserDSName="DataSetInfMontosCob">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tbInfMontosCobra" msprop:Generator_TableClassName="tbInfMontosCobraDataTable" msprop:Generator_TableVarName="tabletbInfMontosCobra" msprop:Generator_TablePropName="tbInfMontosCobra" msprop:Generator_RowDeletingName="tbInfMontosCobraRowDeleting" msprop:Generator_RowChangingName="tbInfMontosCobraRowChanging" msprop:Generator_RowEvHandlerName="tbInfMontosCobraRowChangeEventHandler" msprop:Generator_RowDeletedName="tbInfMontosCobraRowDeleted" msprop:Generator_UserTableName="tbInfMontosCobra" msprop:Generator_RowChangedName="tbInfMontosCobraRowChanged" msprop:Generator_RowEvArgName="tbInfMontosCobraRowChangeEvent" msprop:Generator_RowClassName="tbInfMontosCobraRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:string" minOccurs="0" />
+              <xs:element name="COBRADOR" msprop:Generator_ColumnVarNameInTable="columnCOBRADOR" msprop:Generator_ColumnPropNameInRow="COBRADOR" msprop:Generator_ColumnPropNameInTable="COBRADORColumn" msprop:Generator_UserColumnName="COBRADOR" type="xs:string" minOccurs="0" />
+              <xs:element name="telefonoCob" msprop:Generator_ColumnVarNameInTable="columntelefonoCob" msprop:Generator_ColumnPropNameInRow="telefonoCob" msprop:Generator_ColumnPropNameInTable="telefonoCobColumn" msprop:Generator_UserColumnName="telefonoCob" type="xs:string" minOccurs="0" />
+              <xs:element name="fechaAbono" msprop:Generator_ColumnVarNameInTable="columnfechaAbono" msprop:Generator_ColumnPropNameInRow="fechaAbono" msprop:Generator_ColumnPropNameInTable="fechaAbonoColumn" msprop:Generator_UserColumnName="fechaAbono" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalCuotas" msprop:Generator_ColumnVarNameInTable="columnTotalCuotas" msprop:Generator_ColumnPropNameInRow="TotalCuotas" msprop:Generator_ColumnPropNameInTable="TotalCuotasColumn" msprop:Generator_UserColumnName="TotalCuotas" type="xs:string" minOccurs="0" />
+              <xs:element name="cliente" msprop:Generator_ColumnVarNameInTable="columncliente" msprop:Generator_ColumnPropNameInRow="cliente" msprop:Generator_ColumnPropNameInTable="clienteColumn" msprop:Generator_UserColumnName="cliente" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
